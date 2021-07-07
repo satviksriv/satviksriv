@@ -12,12 +12,12 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding An
 - :computer: Most used line of code `git commit -m "First Commit"`
 - 🤔 I’m looking for app development projects to work on as a team and learn new things on the way.
 - 📧 How to reach me: srivastavasatvik22@gmail.com
-- ⚡ Fun fact: I play badminton and play games very often.
+- ⚡ Fun fact: I play badminton and pc games very often.
 
 #### Technologies
 
 
-[![Dart Badge](https://img.shields.io/badge/-Dart-61DBFB?style=for-the-badge&labelColor=black&logo=dart&logoColor=61DBFB)](#) [![Flutter Badge](https://img.shields.io/badge/-flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![C++ Badge](https://img.shields.io/badge/-C++-3C873A?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=3C873A)](#)
+[![Dart Badge](https://img.shields.io/badge/-Dart-61DBFB?style=for-the-badge&labelColor=black&logo=dart&logoColor=61DBFB)](https://github.com/satviksriv?tab=repositories) [![Flutter Badge](https://img.shields.io/badge/-flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](https://github.com/satviksriv?tab=repositories) [![C++ Badge](https://img.shields.io/badge/-C++-3C873A?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=3C873A)](https://github.com/satviksriv?tab=repositories)
 
 
 #### Profile Visits
@@ -27,9 +27,6 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding An
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 #### GitHub Stats
