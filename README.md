@@ -1,6 +1,6 @@
 ## Hi I'm Satvik <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding Android Developer. I spend most of time learning new things related to App Development through Flutter and coding my way through those tutorials and implementing the skills that I learned on some awesome projects as well as do Competitive Programming through C++.
+I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding Android Developer. I spend most of time learning new things related to App Development through Flutter and coding my way through those tutorials and implementing the skills that I learned on some awesome projects. I am also a programming enthusiast who believes in being passionate about competitive coding and perform problem-solving with patience.
 
 :mailbox: Reach me out!
 
