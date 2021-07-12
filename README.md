@@ -12,7 +12,7 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding An
 - :computer: Most used line of code `git commit -m "First Commit"`
 - 🤔 I’m looking for app development projects to work on as a team and learn new things on the way.
 - 📧 How to reach me: srivastavasatvik22@gmail.com
-- ⚡ Fun fact: I really like to play badminton as well as watch anime(not a weeb though!).
+- ⚡ Fun fact: I really like to play badminton.
 
 #### Technologies
 
