@@ -28,11 +28,11 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding An
 
 <!--START_SECTION:waka-->
 ```text
-C++      8 hrs 54 mins   █████████████▓░░░░░░░░░░░   55.02 % 
-Dart     7 hrs 7 mins    ███████████░░░░░░░░░░░░░░   44.00 % 
-Text     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Groovy   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-YAML     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+C++      9 hrs 20 mins   ████████████████▒░░░░░░░░   65.94 % 
+Dart     4 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 % 
+Text     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Groovy   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+YAML     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
 
