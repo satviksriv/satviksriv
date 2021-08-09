@@ -28,8 +28,8 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding An
 
 <!--START_SECTION:waka-->
 ```text
-Dart       12 hrs 11 mins  ████████████████████████▓   98.56 % 
-YAML       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Dart       11 hrs 12 mins  ████████████████████████▓   98.50 % 
+YAML       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 <!--END_SECTION:waka-->
 
