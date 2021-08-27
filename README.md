@@ -28,7 +28,7 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding An
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+
 ```
 <!--END_SECTION:waka-->
 
