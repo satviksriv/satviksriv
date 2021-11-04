@@ -28,9 +28,9 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding Fu
 
 <!--START_SECTION:waka-->
 ```text
-Java   1 hr 28 mins    ███████████████▓░░░░░░░░░   62.31 % 
-C++    41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.12 % 
-HTML   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Java   1 hr            █████████████▒░░░░░░░░░░░   53.21 % 
+C++    41 mins         █████████░░░░░░░░░░░░░░░░   36.16 % 
+HTML   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 ```
 <!--END_SECTION:waka-->
 
