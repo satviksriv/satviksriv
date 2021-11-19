@@ -18,6 +18,7 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding Fu
 
 
 [![Dart Badge](https://img.shields.io/badge/-Dart-61DBFB?style=for-the-badge&labelColor=black&logo=dart&logoColor=61DBFB)](https://github.com/satviksriv?tab=repositories) [![Flutter Badge](https://img.shields.io/badge/-flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](https://github.com/satviksriv?tab=repositories) [![C++ Badge](https://img.shields.io/badge/-C++-3C873A?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=3C873A)](https://github.com/satviksriv?tab=repositories)
+[![HTML Badge](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/satviksriv?tab=repositories)
 
 
 #### Profile Visits
