@@ -26,10 +26,6 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding No
 [![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/satviksriv?tab=repositories) 
 
 
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=satviksriv.satviksriv)
-
 #### Coding Stats
 
 <!--START_SECTION:waka-->
