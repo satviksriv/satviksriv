@@ -39,8 +39,3 @@ Markdown     1 hr 1 min      ██████░░░░░░░░░░░
 JSON         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 <!--END_SECTION:waka-->
-
-#### GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satviksriv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
