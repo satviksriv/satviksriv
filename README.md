@@ -10,7 +10,7 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding No
 
 - 👨‍🎓 I’m currently studying at Chandigarh University as a CSE Undergrad with Honours in Cloud Computing.
 - :computer: Most used line of code `git commit -m "First Commit"`
-- 🤔 I’m looking for app development projects to work on as a team and learn new things on the way.
+- 🤔 I’m looking for node projects to work on as a team and learn new things on the way.
 - 📧 How to reach me: srivastavasatvik22@gmail.com
 - ⚡ Fun fact: I really like to play badminton.
 
@@ -19,6 +19,8 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding No
 
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/satviksriv?tab=repositories)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/satviksriv?tab=repositories)
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://github.com/satviksriv?tab=repositories)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/satviksriv?tab=repositories)
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/satviksriv?tab=repositories)
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/satviksriv?tab=repositories)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/satviksriv?tab=repositories)
