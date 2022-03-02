@@ -34,9 +34,10 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding No
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   14 mins         ████████████░░░░░░░░░░░░░   48.51 %
-JSON         10 mins         █████████░░░░░░░░░░░░░░░░   35.48 %
-Markdown     4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Markdown     2 hrs 27 mins   █████████████████████░░░░   84.18 %
+JavaScript   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+JSON         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
