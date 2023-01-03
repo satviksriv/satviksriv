@@ -34,8 +34,8 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding No
 <!--START_SECTION:waka-->
 
 ```text
-C++     46 mins         ████████████████████████░   96.21 %
-Other   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+C++     1 hr 33 mins    ████████████████████████▒   97.90 %
+Other   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
