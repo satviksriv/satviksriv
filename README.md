@@ -33,7 +33,7 @@ I'm Satvik Srivastava, a CSE Undergrad at Chandigarh University and a budding No
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
