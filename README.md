@@ -32,7 +32,7 @@ Dynamic and results-oriented CSE undergrad with hands-on experience in software 
 
 #### Tools
 
-![JMeter](https://img.shields.io/badge/jmeter-e0e0e0?style=for-the-badge&)
+![JMeter](https://img.shields.io/badge/apache jmeter-e0e0e0?style=for-the-badge&)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
