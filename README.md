@@ -4,7 +4,7 @@ Dynamic and results-oriented CSE undergrad with hands-on experience in software 
 
 :mailbox: Reach me out!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Satvik-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-srivastava-8237aa202/) [![Mail Badge](https://img.shields.io/badge/-satviksriv-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:srivastavasatvik22@gmail.com) [![Discord Badge](https://img.shields.io/badge/-SubZero-00008B?style=flat&labelColor=00008B&logo=discord&logoColor=white)](https://discordapp.com/users/6458/) [![Twitter Badge](https://img.shields.io/badge/-satviksriv-002D62?style=flat&labelColor=002D62&logo=twitter&logoColor=white)](https://discordapp.com/users/6458/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Satvik-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-srivastava-8237aa202/) [![Mail Badge](https://img.shields.io/badge/-satviksriv-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:srivastavasatvik22@gmail.com) [![Discord Badge](https://img.shields.io/badge/-SubZero-00008B?style=flat&labelColor=00008B&logo=discord&logoColor=white)](https://discordapp.com/users/6458/) [![Twitter Badge](https://img.shields.io/badge/-satviksriv-002D62?style=flat&labelColor=002D62&logo=twitter&logoColor=white)](https://twitter.com/srivsatvik)
 
 - 👨‍🎓 I’m currently studying at Chandigarh University as a CSE Undergrad with Honours in Cloud Computing.
 - :computer: Most used line of code `git commit -m "First Commit"`
